@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://knquad.github.io/Rdd/sitemap.Rdd.gz
